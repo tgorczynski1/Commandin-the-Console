@@ -1,5 +1,4 @@
 # Commanding the Console
-# Commanding the Console
 
 ## Tips and Tricks
 
